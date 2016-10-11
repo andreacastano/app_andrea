@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">app_andrea</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contrasena</string>
+    <string name="repetir_contrasena">Repetir Contrasena</string>
+    <string name="email">Correo</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contrasena">Contrasena</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
