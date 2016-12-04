@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">app_andrea</string>
+    <string name="app_name">Spa Fitness</string>
     <string name="usuario">Usuario</string>
     <string name="contrasena">Contrasena</string>
     <string name="repetir_contrasena">Repetir Contrasena</string>
@@ -10,4 +10,8 @@
     <string name="registrar">Registrar</string>
     <string name="enviar">Enviar</string>
     <string name="cancelar">Cancelar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

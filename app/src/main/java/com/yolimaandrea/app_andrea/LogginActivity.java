@@ -65,7 +65,7 @@ public class LogginActivity extends AppCompatActivity {
         if (requestCode == 1234 && resultCode == RESULT_CANCELED)
             Toast.makeText(this, "Usuario No registrado", Toast.LENGTH_SHORT).show();
         else{
-            if (requestCode == 1234 && resultCode == RESULT_CANCELED){
+            if (requestCode == 1234 && resultCode == RESULT_OK){
                 name = data.getExtras().getString("name");
                 password = data.getExtras().getString("password");
                 email = data.getExtras().getString("mail");
